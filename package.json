@@ -1,0 +1,23 @@
+{
+  "name": "com.labster.truthhelper",
+  "version": "1.2.3",
+  "displayName": "Truth Helper",
+  "description": "Labster helper to determine if boolean value is true or not.",
+  "unity": "2020.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+	  
+ },
+ "keywords": [
+    "Labster",
+    "Helper",
+    "boolean"
+  ],
+  "author": {
+    "name": "Wojciech",
+    "email": "wojciech@labster.com",
+    "url": "https://www.labster.com"
+  }
+}
